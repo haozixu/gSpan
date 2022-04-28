@@ -1,0 +1,6 @@
+data/
+*.txt
+*.zip
+fsm
+rfsm
+convert
